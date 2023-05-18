@@ -1,0 +1,45 @@
+#IntroductionPage{
+    background: linear-gradient(to top,skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    
+}
+#homepage{
+    /* When YOu click anywhere on the homepage the page sends the user to Introduciton.html */
+    background: linear-gradient(skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+}
+#Name{
+    font-size:60px;
+    color:rgb(0, 7, 101);
+    font-family: Coctail, cursive;
+    position: absolute;
+    top: 25%;
+    left: 20%;
+    right: 10%;
+    transform: translate(-10%, -50%);
+}
+#intro{
+    font-size:25px;
+    color:rgb(63, 59, 102);
+    font-family:Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    right: 10%;
+    transform: translateX(-50%);
+}
+#woosungWithCuteHat{
+    border-radius: 70px;
+    position: absolute;
+    top: 50%;
+    right: 5%;
+    transform: translate(0%, -50%);
+    width: 330px;
+}
+#welcome{
+    color: blueviolet;
+} 
